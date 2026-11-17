@@ -1,1 +1,1 @@
-Encrypted, signed content packages for the app. Not readable without the app.
+Encrypted, signed content packages for the app, and its privacy policy and terms of use.
