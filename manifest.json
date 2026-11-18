@@ -1,8 +1,8 @@
 {
-  "format": 3,
-  "version": "202611180918",
-  "file": "content-202611180918.json",
-  "sha256": "d52ceb59b1e273df4c4dced2a9c7596b61188e7b8018be3317fadabe1be62cf2",
-  "size": 545340,
-  "signature": "f2cd6a610780104d61134015cdfea7cc42e2fb10ae3ddaaaae39afb5b4155f2940bdbb3a084e41c50cc88e3d2565b5ebd1b73f2a3aae05da1fb9b435a03dc30f"
+  "format": 4,
+  "version": "202611180937",
+  "file": "content-202611180937.json",
+  "sha256": "776303bfc8b528a7270128a104640204fe581ea4363de0b5989995b46d048b77",
+  "size": 586616,
+  "signature": "d109c43b606a7bc7d7c04ffa5df15047e2aa03b5212e5f902c0faf76ccf0204fe48569892ce2b06b811a4727cddc2d47e7881c0fe489b473d2c40f3170b62c02"
 }
